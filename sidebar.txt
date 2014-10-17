@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wok:home|Door43 (wok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wok|d43-wok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wok/archive/master.zip|d43-wok.zip]]
+
+**Recent Changes**
+{{changes>ns = wok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wok|Ethnologue data]]
+
